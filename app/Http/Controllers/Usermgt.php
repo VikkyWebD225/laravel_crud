@@ -136,6 +136,7 @@ class Usermgt extends Controller
 
     }
 
+    public function signin
 
 
 
